@@ -28,10 +28,10 @@ Para más información sobre el desafío, accede al editor del desafío en [devC
 
 ## Pasos para completar el desafío en devChallenges.io
 
-- [ ] Comienza visitando [devChallenges.io](https://devchallenges.io/), navega hasta la página del desafío e inícialo.
-- [ ] Una vez iniciado, tendrás acceso al editor donde puedes descargar los recursos necesarios, revisar colores, fuentes, y más.
-- [ ] Descarga los archivos base y recursos. Si eres usuario Pro, también podrás descargar el archivo de Figma.
-- [ ] Inicializa el proyecto como un repositorio Git.
+- [x] Comienza visitando [devChallenges.io](https://devchallenges.io/), navega hasta la página del desafío e inícialo.
+- [x] Una vez iniciado, tendrás acceso al editor donde puedes descargar los recursos necesarios, revisar colores, fuentes, y más.
+- [x] Descarga los archivos base y recursos. Si eres usuario Pro, también podrás descargar el archivo de Figma.
+- [x] Inicializa el proyecto como un repositorio Git.
 - [ ] Revisa el diseño y analiza las versiones para escritorio, tablet y móvil.
 - [ ] Planifica tu enfoque identificando clases CSS reutilizables y estructurando tu contenido HTML.
 - [ ] Define los estilos base del proyecto: `font-family`, `font-size` y estilos generales del contenido.
