@@ -32,7 +32,7 @@ Para más información sobre el desafío, accede al editor del desafío en [devC
 - [x] Una vez iniciado, tendrás acceso al editor donde puedes descargar los recursos necesarios, revisar colores, fuentes, y más.
 - [x] Descarga los archivos base y recursos. Si eres usuario Pro, también podrás descargar el archivo de Figma.
 - [x] Inicializa el proyecto como un repositorio Git.
-- [ ] Revisa el diseño y analiza las versiones para escritorio, tablet y móvil.
+- [x] Revisa el diseño y analiza las versiones para escritorio, tablet y móvil.
 - [ ] Planifica tu enfoque identificando clases CSS reutilizables y estructurando tu contenido HTML.
 - [ ] Define los estilos base del proyecto: `font-family`, `font-size` y estilos generales del contenido.
 - [ ] Comienza a aplicar estilos desde la parte superior de la página hacia abajo, asegurándote de que cada sección sea visualmente atractiva y coincida con el diseño.
