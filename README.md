@@ -1,96 +1,96 @@
 # DevChallenges.io - Flip The Coin
 
-![Thumbnail for the Flip The Coin coding challenge](./thumbnail.jpg)
+![Miniatura del desafío de codificación Flip The Coin](./thumbnail.jpg)
 
-## Welcome! 👋
+## ¡Bienvenido! 👋
 
-Welcome to this responsive web coding challenge.
+Bienvenido a este desafío de codificación web responsiva.
 
-[devChallenges.io](https://devchallenges.io/) challenges are designed to help you enhance your coding skills by building realistic projects.
+Los desafíos de [devChallenges.io](https://devchallenges.io/) están diseñados para ayudarte a mejorar tus habilidades de programación creando proyectos realistas.
 
-## The challenge
+## El desafío
 
-Your task is to create a web page that closely resembles the provided design.
+Tu tarea es crear una página web que se asemeje lo más posible al diseño proporcionado.
 
-You can use any tools or resources you like to complete this challenge. Each challenge is designed to practice different skills, so be sure to check the challenge description for more information.
+Puedes usar cualquier herramienta o recurso que desees para completar este desafío. Cada desafío está pensado para practicar distintas habilidades, así que asegúrate de revisar la descripción para más información.
 
-If you need help or have any questions, feel free to [join our community](https://github.com/orgs/devchallenges-io/discussions) and ask for support.
+Si necesitas ayuda o tienes preguntas, siéntete libre de [unirte a nuestra comunidad](https://github.com/orgs/devchallenges-io/discussions) y pedir apoyo.
 
-## Where to find everything
+## Dónde encontrar todo
 
-Your goal is to build the project using the provided design. You can find the designs in the challenge editor once you start the challenge or in the `/design` folder. Please note that the `/design` folder may not include all the designs you need, so be sure to check the editor for more details.
+Tu objetivo es construir el proyecto usando el diseño proporcionado. Puedes encontrar los diseños en el editor del desafío una vez que lo inicies, o en la carpeta `/design`. Ten en cuenta que la carpeta `/design` puede no incluir todos los diseños necesarios, así que revisa el editor para más detalles.
 
-The designs are in JPG format, so you'll need to use your best judgment for styles such as `font-size`, `padding`, and `margin`. Additionally, spacing guides are available for each challenge, but access to them requires a [Pro membership](https://devchallenges.io/pro). With a Pro membership, you can also download the Figma design files.
+Los diseños están en formato JPG, por lo tanto deberás usar tu mejor criterio para estilos como `font-size`, `padding` y `margin`. Además, hay guías de espaciado disponibles para cada desafío, pero el acceso a ellas requiere una [membresía Pro](https://devchallenges.io/pro). Con una membresía Pro también puedes descargar los archivos de diseño en Figma.
 
-All the required assets can be found in the `/resources` folder. You may need to optimize the assets as necessary.
+Todos los recursos necesarios se encuentran en la carpeta `/resources`. Puede que necesites optimizarlos según lo requiera el proyecto.
 
-For more information about the challenge, access the challenge editor on [devChallenges.io](https://devchallenges.io/challenges-dashboard).
+Para más información sobre el desafío, accede al editor del desafío en [devChallenges.io](https://devchallenges.io/challenges-dashboard).
 
-## Steps to Complete the Challenge on devChallenges.io
+## Pasos para completar el desafío en devChallenges.io
 
-- [ ] Start by visiting [devChallenges.io](https://devchallenges.io/), navigate to the challenge page, and begin the challenge.
-- [ ] Once you have started the challenge, you will have access to the editor where you can download the necessary resources, check colors, fonts, and more.
-- [ ] Download the starter/resources, and if you are a Pro user, you can also download the Figma file.
-- [ ] Initialize the project as a Git repository.
-- [ ] Review the design and analyze the different versions for desktop, tablet, and mobile.
-- [ ] Plan your approach to the project by identifying reusable CSS classes and structuring your HTML content.
-- [ ] Define the base styles for your project, including font-family, font-size, and other general content styles.
-- [ ] Begin adding styles from the top of the page and work your way down, ensuring that each section is visually appealing and matches the provided design.
-- [ ] Optimize and resize the required assets from the `/images` folder as necessary.
-- [ ] Test your project's responsiveness by previewing it on different devices and screen sizes.
-- [ ] Once you are satisfied with your implementation, deploy your project to a hosting platform such as GitHub Pages, Vercel, or Netlify.
-- [ ] Submit your solution on devchallenges.io and aim to pass the design comparison and performance tests.
-- [ ] Replace the default `README.md` file with a custom one that explains your project and reflects on your learning experience. You can use the provided `README-template.md` as a starting point.
-- [ ] Share your solution with the devChallenges.io community by tweeting [@devchallengesio](https://twitter.com/devchallengesio) and mentioning the repository and live URLs in your tweet. You can also share your solution on other social channels or write a blog post about your experience.
-- [ ] Seek feedback from the community by using the provided templates or asking specific questions about your implementation.
+- [ ] Comienza visitando [devChallenges.io](https://devchallenges.io/), navega hasta la página del desafío e inícialo.
+- [ ] Una vez iniciado, tendrás acceso al editor donde puedes descargar los recursos necesarios, revisar colores, fuentes, y más.
+- [ ] Descarga los archivos base y recursos. Si eres usuario Pro, también podrás descargar el archivo de Figma.
+- [ ] Inicializa el proyecto como un repositorio Git.
+- [ ] Revisa el diseño y analiza las versiones para escritorio, tablet y móvil.
+- [ ] Planifica tu enfoque identificando clases CSS reutilizables y estructurando tu contenido HTML.
+- [ ] Define los estilos base del proyecto: `font-family`, `font-size` y estilos generales del contenido.
+- [ ] Comienza a aplicar estilos desde la parte superior de la página hacia abajo, asegurándote de que cada sección sea visualmente atractiva y coincida con el diseño.
+- [ ] Optimiza y ajusta el tamaño de los recursos ubicados en la carpeta `/images` según sea necesario.
+- [ ] Prueba la capacidad de respuesta del proyecto en distintos dispositivos y tamaños de pantalla.
+- [ ] Cuando estés satisfecho con el resultado, despliega tu proyecto en una plataforma como GitHub Pages, Vercel o Netlify.
+- [ ] Envía tu solución en devChallenges.io e intenta pasar la comparación de diseño y pruebas de rendimiento.
+- [ ] Reemplaza el archivo `README.md` por uno personalizado que explique tu proyecto y reflexione sobre tu aprendizaje. Puedes usar el archivo `README-template.md` como punto de partida.
+- [ ] Comparte tu solución con la comunidad de devChallenges.io tuiteando a [@devchallengesio](https://twitter.com/devchallengesio) y mencionando el repositorio y URLs del despliegue. También puedes compartir tu solución en otras redes sociales o escribir un artículo sobre tu experiencia.
+- [ ] Busca retroalimentación en la comunidad usando las plantillas proporcionadas o haciendo preguntas específicas sobre tu implementación.
 
-Good luck and enjoy building your project! 🚀
+¡Buena suerte y disfruta creando tu proyecto! 🚀
 
-## Deploying your project
+## Desplegando tu proyecto
 
-Our recommended hosting options include:
+Nuestras opciones de hosting recomendadas incluyen:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can choose any of these solutions or explore other trusted providers. For more information, please refer to our guide on [free hosting platforms](https://devchallenges.io/learn/1-fundamentals/free-hosting-for-web-projects).
+Puedes elegir cualquiera de estas opciones u otras plataformas confiables. Para más información, revisa nuestra guía sobre [plataformas gratuitas de hosting](https://devchallenges.io/learn/1-fundamentals/free-hosting-for-web-projects).
 
-## Create your own `README.md`
+## Crea tu propio `README.md`
 
-To use the Readme template, follow these steps:
+Para usar la plantilla de README, sigue estos pasos:
 
-1. Open the `README-template.md` file in your text editor.
-2. Replace the placeholder content with your own project information.
-3. Customize the sections and headings to fit your project's needs.
-4. Add a detailed description of your project, including its purpose and features.
-5. Reflect on your learning experience and any challenges you encountered during development.
-6. Delete the original `README.md` file.
-7. Rename the `README-template.md` file to `README.md`.
-8. Save the changes and commit the updated `README.md` file to your repository.
+1. Abre el archivo `README-template.md` en tu editor de texto.
+2. Reemplaza el contenido de ejemplo con información de tu proyecto.
+3. Personaliza las secciones y encabezados según lo que necesite tu proyecto.
+4. Agrega una descripción detallada del proyecto, incluyendo su propósito y funcionalidades.
+5. Reflexiona sobre lo que aprendiste y los desafíos que enfrentaste durante el desarrollo.
+6. Elimina el archivo `README.md` original.
+7. Renombra el archivo `README-template.md` a `README.md`.
+8. Guarda los cambios y haz commit del nuevo archivo `README.md` a tu repositorio.
 
-By following these instructions, you can create a customized `README.md` file that effectively communicates your project to others.
+Siguiendo estas instrucciones, podrás crear un `README.md` personalizado que comunique efectivamente tu proyecto a los demás.
 
-## More guides
+## Más guías
 
-Don't forget to check out the [devChallenges Curriculum](https://devchallenges.io/learn), which covers basic to advanced topics that are essential for your web development journey.
+No olvides revisar el [Currículum de devChallenges](https://devchallenges.io/learn), que cubre desde temas básicos hasta avanzados esenciales para tu camino en el desarrollo web.
 
-## Sharing your solution
+## Compartir tu solución
 
-There are several platforms where you can share your solution:
+Existen varias plataformas donde puedes compartir tu solución:
 
-1.  Tweet [@devchallengesio](https://x.com/devchallengesio) and mention **@devchallengesio**, including the repository and live URLs in your tweet. We would love to see what you have built and help spread the word.
-2.  Share your solution on other social channels such as LinkedIn and tag [devchallenges](https://www.linkedin.com/company/devchallenges).
-3.  Write a blog post about your experience building the project. Documenting your workflow, technical choices, and explaining your code is an excellent way to reinforce your learning. Popular platforms for writing include [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+1. Tuitea a [@devchallengesio](https://x.com/devchallengesio), incluyendo los enlaces a tu repositorio y despliegue. Nos encantaría ver lo que construiste y ayudarte a difundirlo.
+2. Comparte tu solución en otras redes sociales como LinkedIn y etiqueta a [devchallenges](https://www.linkedin.com/company/devchallenges).
+3. Escribe un artículo sobre tu experiencia construyendo el proyecto. Documentar tu flujo de trabajo, decisiones técnicas y explicación del código es una excelente forma de reforzar tu aprendizaje. Plataformas recomendadas: [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), y [CodeNewbie](https://community.codenewbie.org/).
 
-We provide templates to help you share your solution once you have submitted it on the platform. Feel free to edit them and include specific questions when seeking feedback.
+Ofrecemos plantillas para ayudarte a compartir tu solución una vez que la hayas enviado en la plataforma. Siéntete libre de editarlas y agregar preguntas específicas para obtener retroalimentación.
 
-The more specific your questions are, the more likely it is that another community member will provide feedback.
+Cuanto más específicas sean tus preguntas, más probable es que otros miembros de la comunidad te den feedback útil.
 
-## Feedback
+## Retroalimentación
 
-We value feedback and are always looking to improve our challenges and platform. If you have any suggestions or comments, please email us at hi\[at]devchallenges\[dot]io.
+Valoramos tus comentarios y siempre buscamos mejorar nuestros desafíos y la plataforma. Si tienes sugerencias o comentarios, escríbenos a hi@devchallenges.io.
 
-This challenge is completely free. Please share it with anyone who would find it useful for practice.
+Este desafío es completamente gratuito. Por favor, compártelo con quien creas que le puede servir para practicar.
 
-**Enjoy building!** 🚀
+**¡Disfruta programando!** 🚀
